@@ -1,0 +1,19 @@
+{
+  "version": "v1.2.0",
+  "notes": "MangoBusiness v1.2.0",
+  "pub_date": "2026-05-14T02:51:38Z",
+  "platforms": {
+    "darwin-universal": {
+      "url": "https://github.com/YASSINELARHRIB/mangobusiness-releases/releases/latest/download/MangoBusiness-universal.dmg",
+      "signature": ""
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/YASSINELARHRIB/mangobusiness-releases/releases/latest/download/MangoBusiness-Setup.msi",
+      "signature": ""
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/YASSINELARHRIB/mangobusiness-releases/releases/latest/download/MangoBusiness.AppImage",
+      "signature": ""
+    }
+  }
+}
